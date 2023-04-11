@@ -1,7 +1,7 @@
 {
   "type": "weapon",
-  "version": "3.5",
-  "update_time": "2023-04-06T09:33:57+00:00",
+  "version": "3.6",
+  "update_time": "2023-04-11T01:46:33.7252352+00:00",
   "list": [
     {
       "item_id": "11101",
@@ -1768,7 +1768,7 @@
       "ru": "Карманный гримуар",
       "th": "Pocket Grimoire",
       "tr": "Büyü Cep Kitabı",
-      "vi": "Số Tay Ma Pháp"
+      "vi": "Sổ Tay Ma Pháp"
     },
     {
       "item_id": "14301",
@@ -2225,6 +2225,25 @@
       "th": "Memory of Dust",
       "tr": "Tozlu Hatıra",
       "vi": "Khóa Trần Thế"
+    },
+    {
+      "item_id": "14505",
+      "text_hash": "4007372867",
+      "chs": "碧落之珑",
+      "cht": "碧落之瓏",
+      "de": "Jadesturz-Pracht",
+      "en": "Jadefall's Splendor",
+      "es": "Centelleo Jadecaído",
+      "fr": "Splendeur de l'azur",
+      "id": "Jadefall's Splendor",
+      "it": "Splendore del Giadiluvio",
+      "jp": "碧落の瓏",
+      "kr": "벽락의 옥",
+      "pt": "Esplendor Índigo",
+      "ru": "Великолепие лазурного свода",
+      "th": "Jadefall's Splendor",
+      "tr": "Yeşimlerin Mağrur Işıltısı",
+      "vi": "Ngọc Bích Huy Hoàng"
     },
     {
       "item_id": "14506",

@@ -1,7 +1,7 @@
 {
   "type": "material",
-  "version": "3.5",
-  "update_time": "2023-04-06T09:34:17+00:00",
+  "version": "3.6",
+  "update_time": "2023-04-11T01:54:16.7906556+00:00",
   "list": [
     {
       "item_id": "100011",
@@ -110,7 +110,7 @@
       "id": "Mint",
       "it": "Menta",
       "jp": "ミント",
-      "kr": "허브",
+      "kr": "민트",
       "pt": "Menta",
       "ru": "Мята",
       "th": "Mint",
@@ -1159,7 +1159,7 @@
       "pt": "Feijões Glabros",
       "ru": "Голые бобы",
       "th": "Glabrous Beans",
-      "tr": "Tüysüz Fasulye",
+      "tr": "Kabuksuz Nohut",
       "vi": "Đậu Bóng"
     },
     {
@@ -1940,6 +1940,44 @@
       "th": "Sand Grease Pupa",
       "tr": "Kum Yağı Pupası",
       "vi": "Nhộng Cát"
+    },
+    {
+      "item_id": "101223",
+      "text_hash": "1761418508",
+      "chs": "悼灵花",
+      "cht": "悼靈花",
+      "de": "Trauerblume",
+      "en": "Mourning Flower",
+      "es": "Flor funeraria",
+      "fr": "Fleur funéraire",
+      "id": "Mourning Flower",
+      "it": "Fiore del lutto",
+      "jp": "悼霊花",
+      "kr": "애도의 꽃",
+      "pt": "Flor do Luto",
+      "ru": "Цветы скорби",
+      "th": "Mourning Flower",
+      "tr": "Yas Çiçeği",
+      "vi": "Hoa Tang Thương"
+    },
+    {
+      "item_id": "101224",
+      "text_hash": "239145148",
+      "chs": "万相石",
+      "cht": "萬相石",
+      "de": "Trishirait",
+      "en": "Trishiraite",
+      "es": "Trishiraíta",
+      "fr": "Trishiraite",
+      "id": "Trishiraite",
+      "it": "Trishiraite",
+      "jp": "サングイト",
+      "kr": "만상석",
+      "pt": "Trishiraita",
+      "ru": "Тришираит",
+      "th": "Trishiraite",
+      "tr": "Kan Kızılı Taşı",
+      "vi": "Trishiraite"
     },
     {
       "item_id": "101225",

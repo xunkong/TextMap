@@ -1,7 +1,7 @@
 {
   "type": "gadget",
-  "version": "3.5",
-  "update_time": "2023-04-06T09:50:18+00:00",
+  "version": "3.6",
+  "update_time": "2023-04-11T01:49:31.6818748+00:00",
   "list": [
     {
       "item_id": "220001",
@@ -1220,6 +1220,25 @@
       "vi": "La Bàn Hoang Dã"
     },
     {
+      "item_id": "220076",
+      "text_hash": "846256756",
+      "chs": "斯露莎",
+      "cht": "斯露莎",
+      "de": "Sorush",
+      "en": "Sorush",
+      "es": "Sorush",
+      "fr": "Sorush",
+      "id": "Sorush",
+      "it": "Sorush",
+      "jp": "ソルシュ",
+      "kr": "소루쉬",
+      "pt": "Sorush",
+      "ru": "Соруш",
+      "th": "Sorush",
+      "tr": "Sorush",
+      "vi": "Sorush"
+    },
+    {
       "item_id": "220077",
       "text_hash": "2493395348",
       "chs": "「留影机·风花」",
@@ -1256,6 +1275,44 @@
       "th": "Festive Drum",
       "tr": "Şenlik Davulu",
       "vi": "Trống Yến Tiệc"
+    },
+    {
+      "item_id": "220079",
+      "text_hash": "3644247980",
+      "chs": "斯露莎",
+      "cht": "斯露莎",
+      "de": "Sorush",
+      "en": "Sorush",
+      "es": "Sorush",
+      "fr": "Sorush",
+      "id": "Sorush",
+      "it": "Sorush",
+      "jp": "ソルシュ",
+      "kr": "소루쉬",
+      "pt": "Sorush",
+      "ru": "Соруш",
+      "th": "Sorush",
+      "tr": "Sorush",
+      "vi": "Sorush"
+    },
+    {
+      "item_id": "220080",
+      "text_hash": "3259207892",
+      "chs": "寻物锚针",
+      "cht": "尋物錨針",
+      "de": "Suchkompass",
+      "en": "Search Compass",
+      "es": "Brújula arqueológica",
+      "fr": "Boussole de fouilles",
+      "id": "Search Compass",
+      "it": "Bussola rilevatrice",
+      "jp": "捜し物アンカー",
+      "kr": "탐색 나침반",
+      "pt": "Bússola Arqueológica",
+      "ru": "Поисковый компас",
+      "th": "เข็มทิศค้นหา",
+      "tr": "Arayıcı Pusula",
+      "vi": "La Bàn Tìm Vật"
     }
   ]
 }

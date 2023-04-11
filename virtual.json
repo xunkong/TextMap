@@ -1,7 +1,7 @@
 {
   "type": "virtual",
-  "version": "3.5",
-  "update_time": "2023-04-07T02:13:19+00:00",
+  "version": "3.6",
+  "update_time": "2023-04-11T01:47:31.2249017+00:00",
   "list": [
     {
       "item_id": "101",
@@ -1009,6 +1009,25 @@
       "th": "ตั๋วคล้อยบุปผา",
       "tr": "Çiçek Kuponu",
       "vi": "Phiếu Trục Hoa"
+    },
+    {
+      "item_id": "158",
+      "text_hash": "1722993492",
+      "chs": "游乐会热度",
+      "cht": "遊樂會熱度",
+      "de": "Beliebtheit der Messe",
+      "en": "Gala Excitement",
+      "es": "Fiebre académica",
+      "fr": "Engouement de gala",
+      "id": "Gala Excitement",
+      "it": "Entusiasmo da gala",
+      "jp": "フェス賑わい度",
+      "kr": "홍보전 열기",
+      "pt": "Entusiasmo da Feira",
+      "ru": "Фестивальный ажиотаж",
+      "th": "ความสนุกของงานรื่นเริง",
+      "tr": "Şenlik Heyecanı",
+      "vi": "Độ Náo Nhiệt Hội Chợ"
     },
     {
       "item_id": "159",
